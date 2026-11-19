@@ -18,7 +18,7 @@ Contains bad monologing and an overview on the current world of AI by someone wh
 - Voice acting by our talented group member, Ryan Paul
 - Maybe three thousand words of text, if you look closely
 - Pixelated portraits of the group members as character sprites in horrific and normal poses
-- 
+
 ## My Role
 This was a team project of 3 students. I was responsible for all of the code and some visual design. I learned the basics of the Gamemaker engine using this project, and coordinated the rest of my group members to finish the assets.
 
