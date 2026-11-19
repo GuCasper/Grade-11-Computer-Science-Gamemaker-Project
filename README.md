@@ -10,7 +10,8 @@ Play it here on Itch: https://bakedbeans76.itch.io/vending-machine-sim
 Low effort visual novel designed to be slapstick comedy.
 Contains bad monologing and an overview on the current world of AI by someone who is very much not qualified to speak about so.
 
-![Uploading image.png…]()
+<img width="787" height="582" alt="image" src="https://github.com/user-attachments/assets/8833b5ba-7e47-49a8-9e45-8fabf7e83fb5" />
+
 ... Yes, slapstick comedy.
 
 ## Features
