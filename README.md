@@ -1,4 +1,4 @@
-<img width="783" height="582" alt="image" src="https://github.com/user-attachments/assets/9541c7ca-fd5c-4570-96b9-807c41d72781" /># Vending Machine Simulator
+# Vending Machine Simulator
 
 A 2D game built in GameMaker as a group project for my Grade 11 Computer Science course (ICS3U) in 2026.
 
@@ -9,6 +9,9 @@ Play it here on Itch: https://bakedbeans76.itch.io/vending-machine-sim
 ## About the Game
 Low effort visual novel designed to be slapstick comedy.
 Contains bad monologing and an overview on the current world of AI by someone who is very much not qualified to speak about so.
+
+![Uploading image.png…]()
+... Yes, slapstick comedy.
 
 ## Features
 - Voice acting by our talented group member, Ryan Paul
